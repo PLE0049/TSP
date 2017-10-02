@@ -1,0 +1,6 @@
+c:\users\jakub\documents\visual studio 2017\Projects\Limity\Limity\bin\Debug\Limity.exe.config
+c:\users\jakub\documents\visual studio 2017\Projects\Limity\Limity\bin\Debug\Limity.exe
+c:\users\jakub\documents\visual studio 2017\Projects\Limity\Limity\bin\Debug\Limity.pdb
+c:\users\jakub\documents\visual studio 2017\Projects\Limity\Limity\obj\Debug\Limity.csprojResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 2017\Projects\Limity\Limity\obj\Debug\Limity.exe
+c:\users\jakub\documents\visual studio 2017\Projects\Limity\Limity\obj\Debug\Limity.pdb
